@@ -1,0 +1,25 @@
+[{
+    "id": 1,
+    "nombre": "Iphone 15",
+    "precio": 1500,
+    "imagen": "/imagenes/Captura de pantalla 2024-10-25 031146.png"
+},
+{
+    "id": 2,
+    "nombre": "Reloj",
+    "precio": 70,
+    "imagen": "/imagenes/Captura de pantalla 2024-10-25 031453.png"
+},
+{
+    "id": 3,
+    "nombre": "Iphone 13",
+    "precio": 1300,
+    "imagen": "/imagenes/Captura de pantalla 2024-10-25 031156.png"
+},
+{
+    "id": 4,
+    "nombre": "Iphone 14",
+    "precio": 1100,
+    "imagen": "/imagenes/Captura de pantalla 2024-10-25 031208.png"
+}
+]
